@@ -1,6 +1,8 @@
 Chitter
 =======
 
+![Chitter Preview](http://s15.postimg.org/vmkbi8t97/Screen_Shot_2015_04_20_at_20_38_18.png)
+
 Create an account and share messages called 'peeps' with other users.
 
 --------------------------------------------------------
